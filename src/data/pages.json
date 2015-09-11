@@ -1,0 +1,215 @@
+{
+"_comment---": "共通-----------------------------------------------------------",
+    "canonical": "https://tixeebox.tv/",
+    "notice_model": "【iPhone、Android共通】<br><span class=\"alert-c u-pl10\">※機種によって表示が若干違いが生じます。</span>",
+    "notice_gift": "<span class=\"alert-c u-pl10\">※公演によってはギフトができない場合があります。</span>",
+
+
+
+"_comment---": "日本語サイト-----------------------------------------------------------",
+    "lang": "ja",
+    "description": "“tixeebox”（ティクシーボックス）は電子チケット発券のみに特化し、システム開発不要の主催者に導入しやすく、ユーザーにも利用しやすい電子チケットアプリサービスです。 ",
+    "alternate": "",
+    "title":"tixeebox（ティクシーボックス）| スマホチケット発券アプリ ",
+
+
+"_comment---": "英語サイト-----------------------------------------------------------",
+    "langEn": "en",
+    "descriptionEn": "Hatsune Miku [Magical Mirai 2015] - Smartphone ticket How to use",
+    "alternateEn": "https://tixee.tv/cp/magicalmirai2015",
+    "titleEn":"Hatsune Miku [Magical Mirai 2015] - tixee Smartphone ticket How to use",
+
+
+"_comment---": "日程時間-----------------------------------------------------------",
+    "receiveStartDate": "9月16日(水)",
+    "receiveStartTime": "10:00",
+    "lastPerformDate": "9月21日(月)",
+
+
+"_comment---": "アプリのインストールと利用登録方法---iphone---日本語--------------------------------------------------------",
+    "section01_1": "tixeeboxアプリを起動し「利用を開始する」ボタンを選択します。",
+    "section01_2": "「認証に進む」ボタンを選択します。",
+    "section01_3": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択します。",
+    "section01_4": "SMSに認証用コードが届いているのを確認します。",
+    "section01_5": "認証用コードを入力し「アカウントを作成」を選択します。",
+    "section01_6": "認証完了した後、「アカウントの登録に進む」を選択します。",
+    "section01_7": "生年月日、パスワードを入力し「情報を登録する」を選択します。",
+    "section01_8": "登録完了し、トップ画面に遷移します。次は、チケットを入手しよう！",
+
+    "section01_1s": "「利用を開始する」ボタンを選択",
+    "section01_2s": "「認証に進む」ボタンを選択",
+    "section01_3s": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択",
+    "section01_4s": "SMSに届く認証用コードを確認",
+    "section01_5s": "認証用コードを入力し「アカウントを作成」を選択",
+    "section01_6s": "認証完了した後、「アカウントの登録に進む」を選択",
+    "section01_7s": "生年月日、パスワードを入力し「情報を登録する」を選択",
+    "section01_8s": "登録完了",
+
+
+"_comment---": "アプリのインストールと利用登録方法---iphone---英語--------------------------------------------------------",
+    "section01_1En": "Open tixee and tap \"Already bought ticket\"",
+    "section01_2En": "Tap \"Signup\" button.",
+    "section01_3En": "Sign up using \"Facebook signup\" or by filling in the required fields below and press \"Signup\".<small><p>▼If you selected \"Facebook signup\"<br>※You're all set with this step.</p><p>▼If you filled the required fields,<br>※Please move to step 4.<br>※Depending on your junk mail settings, you may not receive our emails.<br>※Please allow \"noreply@tixee.tv\" from your junk mail settings.</p></small>",
+    "section01_4En": "Pre-registration is complete. Confirm this by checking your email.",
+    "section01_5En": "Tap the \"Register\" button in your email to confirm your registration.",
+    "section01_6En": "認証完了後、アカウント情報を登録します。",
+
+    "section01_1sEn": "Open tixee and tap \"Already bought ticket\"",
+    "section01_2sEn": "Tap \"Signup\" button.",
+    "section01_3sEn": "Sign up using \"Facebook signup\" or by filling in the required fields below and press \"Signup\".",
+    "section01_4sEn": "Pre-registration is complete. Confirm this by checking your email.",
+    "section01_5sEn": "Tap the \"Register\" button in your email to confirm your registration.",
+    "section01_6sEn": "認証完了後、アカウント情報を登録",
+
+
+
+
+"_comment---": "アプリのインストールと利用登録方法---android---日本語--------------------------------------------------------",
+    "section01_1and": "tixeeboxアプリを起動し「利用を開始する」ボタンを選択します。",
+    "section01_2and": "「認証に進む」ボタンを選択します。",
+    "section01_3and": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択します。",
+    "section01_4and": "SMSに認証用コードが届いているのを確認します。",
+    "section01_5and": "認証用コードを入力し「ログイン」を選択します。",
+    "section01_6and": "認証完了した後、「アカウントの登録に進む」を選択します。",
+    "section01_7and": "生年月日、パスワードを入力し「情報を登録する」を選択します。",
+    "section01_8and": "登録完了し、トップ画面に遷移します。次は、チケットを入手しよう！",
+
+    "section01_1ands": "「利用を開始する」ボタンを選択",
+    "section01_2ands": "「認証に進む」ボタンを選択",
+    "section01_3ands": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択",
+    "section01_4ands": "SMSに届く認証用コードを確認",
+    "section01_5ands": "認証用コードを入力し「ログイン」を選択",
+    "section01_6ands": "認証完了した後、「アカウントの登録に進む」を選択",
+    "section01_7ands": "生年月日、パスワードを入力し「情報を登録する」を選択",
+    "section01_8ands": "登録完了",
+
+
+"_comment---": "アプリのインストールと利用登録方法---android---英語--------------------------------------------------------",
+    "section01_1andEn": "tixeeboxアプリを起動し「利用を開始する」ボタンを選択します。",
+    "section01_2andEn": "「認証に進む」ボタンを選択します。",
+    "section01_3andEn": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択します。",
+    "section01_4andEn": "SMSに認証用コードが届くので確認します。",
+    "section01_5andEn": "認証用コードを入力し「認証する」を選択します。",
+    "section01_6andEn": "認証完了後、アカウント情報を登録します。",
+
+    "section01_1andsEn": "「利用を開始する」ボタンを選択",
+    "section01_2andsEn": "「認証に進む」ボタンを選択",
+    "section01_3andsEn": "国番号を選択し、電話番号を入力し「認証用コードを送信」を選択",
+    "section01_4andsEn": "SMSに届く認証用コードを確認",
+    "section01_5andsEn": "認証用コードを入力し「認証する」を選択",
+    "section01_6andsEn": "認証完了後、アカウント情報を登録",
+
+
+
+
+"_comment---": "チケット受け取り方法---iphone---日本語---------------------------------------------------------------------",
+    "section02_1": "チケットを取得できるURLがメールにて届いていることを確認しタップします。<br>tixeeboxアプリが自動で起動するので、パスワード1,パスワード2を入力し「チケットの確認」を選択します。",
+    "section02_2": "チケットを確認し、チケット取得の方向（下）へスワイプします。",
+    "section02_3": "チケット一覧にチケットが入ります。",
+    "section02_4": "チケット一覧から目的のチケットをタップすると詳細を確認できます。",
+
+    "section02_1ands": "チケットURLをタップしてtixeeboxアプリ内でパスワードを入力",
+    "section02_2ands": "チケット取得の方向（下）へスワイプ",
+    "section02_3ands": "チケット一覧に入る",
+    "section02_4ands": "チケット詳細を確認",
+
+
+"_comment---": "チケット受け取り方法---iphone---英語---------------------------------------------------------------------",
+    "section02_1En": "tixeeboxアプリを起動し「購入済みのチケットを受け取る」ボタンを選択します。",
+    "section02_2En": "「Facebookでログイン」または入力フォーム内へ入力し「tixeeアカウントでログイン」ボタンを選択します。",
+    "section02_3En": "下段メニューバーの「オプション」タブを選択します。",
+    "section02_4En": "続いて「チケットセンター」を選択します。",
+
+    "section02_1sEn": "「購入済みのチケットを受け取る」ボタンを選択",
+    "section02_2sEn": "「Facebookでログイン」ボタンを選択、または入力フォームに入力し「tixeeアカウントでログイン」ボタンを選択",
+    "section02_3sEn": "「オプション」タブを選択",
+    "section02_4sEn": "「チケットセンター」を選択",
+
+
+
+
+"_comment---": "チケット受け取り方法---android---日本語-----------------------------------------------------------------------",
+    "section02_1and": "チケットを取得できるURLがメールにて届いていることを確認しタップします。<br>tixeeboxアプリが自動で起動するので、パスワード1,パスワード2を入力して「チケットの確認」を選択します。",
+    "section02_2and": "チケットを確認し、チケット取得の方向（下）へスワイプします。",
+    "section02_3and": "チケット一覧にチケットが入ります。",
+    "section02_4and": "チケット一覧から目的のチケットをタップすると詳細を確認できます。",
+
+    "section02_1s": "チケットURLをタップしてtixeeboxアプリ内でパスワードを入力",
+    "section02_2s": "チケット取得の方向（下）へスワイプ",
+    "section02_3s": "チケット一覧に入る",
+    "section02_4s": "チケット詳細を確認",
+
+
+"_comment---": "チケット受け取り方法---android---英語-----------------------------------------------------------------------",
+    "section02_1andEn": "tixeeboxアプリを起動し「購入済みのチケットを受け取る」ボタンを選択します。",
+    "section02_2andEn": "「Facebookでログイン」または入力フォーム内へ入力し「tixeeアカウントでログイン」ボタンを選択します。",
+    "section02_3andEn": "下段メニューバーの「オプション」タブを選択します。",
+    "section02_4andEn": "続いて「チケットセンター」を選択します。",
+    "section02_5andEn": "初音ミク「マジカルミライ 2015」を選択します。",
+    "section02_6andEn": "画面内に表示されているイベントから該当の日程のイベントを選択します。",
+    "section02_7andEn": "チケットの受け取りには必要項目を入力し、画面右上の「Go」ボタンを選択します。<div class=\"small-x\"><p>パスワード1　チケットご購入時の「チケット引換番号(9桁)」<br>パスワード2　お申込時に登録した「生月日（4桁）」</p></div>",
+    "section02_8andEn": "2つの項目が承認されるとチケット受け取りが完了となります。",
+
+    "section02_1andsEn": "「購入済みのチケットを受け取る」ボタンを選択",
+    "section02_2andsEn": "「Facebookでログイン」ボタンを選択、または入力フォームに入力し「tixeeアカウントでログイン」ボタンを選択",
+    "section02_3andsEn": "「オプション」タブを選択",
+    "section02_4andsEn": "「チケットセンター」を選択",
+    "section02_5andsEn": "公演を選択",
+    "section02_6andsEn": "参加予定の日程を選択",
+    "section02_7andsEn": "2つの必要項目を入力し「Go」ボタンを選択",
+    "section02_8andsEn": "チケット受け取り完了",
+
+
+
+
+"_comment---": "同伴者様へのチケットのギフト（分配）方法---iphone---日本語----------------------------------------------------",
+    "section02_gift_1": "分配したいチケット詳細画面から左中央部の「チケットを渡す」を選択します。",
+    "section02_gift_2": "分配方法を、QRコード・メール・メッセージ・LINEから選択してください。",
+    "section02_gift_3": "メール・メッセージ・LINEの場合は、送信画面が立ち上がるので、分配したい相手の宛先を入力し、送信してください。",
+    "section02_gift_4": "QRコードの場合は、同伴者にtixeeboxを起動してもらいQRコードを読み取ってもらってください。<br><div class=\"small-x\"><p>※転売は禁止されております。<br>※ギフトが完了しましたら、送ったチケットは端末から表示されなくなります。</p></div>",
+
+    "section02_gift_1s": "分配したいチケット詳細画面から左中央部の「チケットを渡す」を選択",
+    "section02_gift_2s": "分配方法を、QRコード・メール・メッセージ・LINEから選択",
+    "section02_gift_3s": "送信画面が立ち上がるので、分配したい相手の宛先を入力し、送信",
+    "section02_gift_4s": "QRコードの場合は、同伴者にtixeeboxを起動してもらいQRコードを読み取ってもらう",
+
+
+"_comment---": "同伴者様へのチケットのギフト（分配）方法---iphone---英語----------------------------------------------------",
+    "section02_gift_1En": "tixeeboxアプリを起動し、「マイチケット」画面右上の「ギフト」ボタンを選択します。",
+    "section02_gift_2En": "分配したいチケットを選択し、画面下「選択完了」ボタンを選択します。",
+    "section02_gift_3En": "メール・メッセージ・LINEにて渡した場合は、相手に届いていることを確認",
+    "section02_gift_4En": "送信画面が立ち上がるので、分配したい相手の宛先を入力し、送信してください。<br><div class=\"small-x\"><p>※転売は禁止されております。</p></div>",
+
+    "section02_gift_1sEn": "「マイチケット」画面右上の「ギフト」ボタンを選択",
+    "section02_gift_2sEn": "分配したいイベントチケットを選択し「選択完了」ボタンを選択",
+    "section02_gift_3sEn": "分配方法をメール・メッセージ・LINEから選択",
+    "section02_gift_4sEn": "分配したい相手の宛先を入力し、送信",
+
+
+
+
+"_comment---": "入場方法---iphone---日本語------------------------------------------------------------------------",
+    "section03_1": "チケット一覧からチケット詳細画面に遷移します。",
+    "section03_2": "チケット詳細画面を入場口にてご掲示ください。係員がチケットをもぎります。",
+    "section03_3": "係員が「利用する」ボタンを選択します。",
+    "section03_4": "入場チェックが完了した後は、会場内の案内に従ってください。",
+
+    "section03_1s": "チケット一覧からチケット詳細画面に遷移",
+    "section03_2s": "チケット画面を入場口にて提示",
+    "section03_3s": "係員が「利用する」ボタンを選択",
+    "section03_4s": "入場完了",
+
+
+"_comment---": "入場方法---iphone---英語------------------------------------------------------------------------",
+    "section03_1En": "tixeeboxアプリを起動し、「マイチケット」画面に表示されているチケットを選択します。",
+    "section03_2En": "チケット画面へ切り替わりますので、その画面を入場口にてご提示ください。",
+    "section03_3En": "入場チェックが完了した後は、会場内の案内に従ってください。",
+
+    "section03_1sEn": "「マイチケット」画面に表示されているチケットを選択",
+    "section03_2sEn": "チケット画面を入場口にて提示",
+    "section03_3sEn": "入場完了"
+
+
+
+
+}

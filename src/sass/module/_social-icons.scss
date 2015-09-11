@@ -1,0 +1,11 @@
+.social-icons {
+    float: right;
+
+    > li > a {
+        background-color: #0C0C0C;
+        border-radius: 50%;
+        line-height: 10px;
+        padding: 5px;
+        margin: 12px;
+    }
+}

@@ -1,0 +1,94 @@
+//Margin,Padding
+@mixin util($multiple, $start:0, $end:12) {
+    @if $multiple == def {
+        @for $i from 0 through 12 {
+            .u-mt#{$i * 5} { margin-top: 5px * $i; }
+            .u-mr#{$i * 5} { margin-right: 5px * $i; }
+            .u-mb#{$i * 5} { margin-bottom: 5px * $i; }
+            .u-ml#{$i * 5} { margin-left: 5px * $i; }
+            .u-pt#{$i * 5} { padding-top: 5px * $i; }
+            .u-pr#{$i * 5} { padding-right: 5px * $i; }
+            .u-pb#{$i * 5} { padding-bottom: 5px * $i; }
+            .u-pl#{$i * 5} { padding-left: 5px * $i; }
+        }
+    }
+}
+
+@include util(def);
+
+//Margin,Padding -ex
+.u-mr100 {
+    margin-right: 100px;
+}
+
+.u-pr135 {
+    padding-right: 135px;
+}
+
+//Floats
+.u-clearfix {
+    @include clearfix;
+}
+
+.u-center-block {
+    @include centerBlock;
+}
+
+.u-pull-right {
+    float: right;
+}
+
+.u-pull-left {
+    float: left;
+}
+
+//Text-align
+.u-text-left {
+    text-align: left;
+}
+
+.u-text-center {
+    text-align: center;
+}
+
+.u-text-right {
+    text-align: right;
+}
+
+.u-text-justify {
+    text-align: justify;
+}
+
+.u-text-nowrap {
+    white-space: nowrap;
+}
+
+//Display
+.u-display-none {
+    display: none;
+}
+
+//Background
+.u-bg-col {
+    background-color: $bgCol;
+}
+
+.u-bg-light {
+    background-color: $commonLightCol;
+}
+
+.u-bg-dark {
+    background-color: $commonDarkCol;
+}
+
+.u-display-block {
+    display: block;
+}
+//img
+.header img {
+    width: 200px;
+}
+//text
+.u-text-red {
+    color: #ff0000 !important;
+}

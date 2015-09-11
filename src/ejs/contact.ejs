@@ -1,0 +1,69 @@
+<% var title = "お問い合わせ - tixeeboxスマホチケットアプリ公式サイト"; %>
+<% include template/_head %>
+    <body id="fn-hesiveTop">
+        <% include template/_nav %>
+        <div class="hidden-xs">
+            <div class="parallax-container">
+                <div class="parallax"><img src="img/bg-contact.jpg" alt="tixeeboxお問い合わせイメージ"></div>
+            </div>
+        </div>
+            <div class="thumbnail">
+                <img src="/img/key_visual2.png" alt="tixeeboxイメージ">
+            </div>
+        </div>
+
+        <section class="row container">
+        <a id="fn-showHere"></a>
+            <div class="header u-text-center u-mt30">
+                <img src="/img/logo.png" alt="tixeeboxロゴ">
+            </div>
+            <h2 class="heading-a u-text-center">
+                お問い合わせ
+            </h2>
+            <p class="grey-text text-darken-3 lighten-3">
+                tixeeboxではサービス内容や機能性を向上させるために日々努めています。 サービス内容や利便性を高めるためのご意見をお待ちしております。
+            </p>
+            <p class="grey-text text-darken-3 lighten-3">
+不具合やご意見がございましたらお気軽にご連絡ください。迅速に対応するよう努めます。<br> なお、お問い合わせにつきましては、tixeebox事務局から3営業日以内にご回答させていただきます。<br>
+<span class="u-text-red">※平日のみ 10:00 - 19:00対応</span>
+            </p>
+        </section>
+        <section class="row container u-pt60">
+            <div class="row">
+                <form class="col s12">
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <input id="last_name" type="text" class="validate">
+                            <label for="last_name">姓名（姓）</label>
+                        </div>
+                        <div class="input-field col s6">
+                            <input id="first_name" type="text" class="validate">
+                            <label for="first_name">姓名（名）</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <input id="email" type="email" class="validate">
+                            <label for="email" data-error="メール形式で入力してください。">メールアドレス</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <textarea id="textarea1" class="materialize-textarea"></textarea>
+                            <label for="textarea1">お問い合わせ内容</label>
+                        </div>
+                    </div>
+                    <div class="row u-pb60">
+                        <dic class="input-field col s12 u-text-center">
+                                <a class="waves-effect waves-light btn btn-large">
+                                <i class="material-icons right">send</i>
+                                送信する
+                                </a>
+                            </dic>
+                        </div>
+                </form>
+            </div>
+        </section>
+
+<% include template/_footer %>
+<% include template/_script %>

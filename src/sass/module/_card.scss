@@ -1,0 +1,11 @@
+.card-image {
+    text-align: center;
+
+    img {
+        max-width: 320px;
+
+        @media(min-width: 420px) {
+            max-width: 260px;
+        }
+    }
+}
